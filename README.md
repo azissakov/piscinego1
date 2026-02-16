@@ -1,1 +1,1 @@
-# piscinego1
+echo "Hello azissakaov!"
